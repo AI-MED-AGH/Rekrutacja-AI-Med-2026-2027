@@ -184,3 +184,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Organizer-only recruitment materials. These must never enter the public repo.
+.internal/
+scripts/
+.artifacts/
+.worktrees/
+.superpowers/
