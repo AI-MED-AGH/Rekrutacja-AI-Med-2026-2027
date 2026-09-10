@@ -1,15 +1,24 @@
 [project]
 name = "rekrutacja-ai-med-2026-2027"
 version = "0.1.0"
-description = "Add your description here"
+description = "Projekt Rekrutacyjny Koła AI Med"
 readme = "README.md"
 requires-python = ">=3.13, <3.14"
 dependencies = [
-    "dotenv>=0.9.9",
+    "huggingface-hub>=1.0.0",
+    "ipykernel>=6.30.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.0",
+    "numpy>=2.3.0",
+    "pandas>=2.3.0",
+    "pillow>=11.3.0",
+    "safetensors>=0.6.0",
+    "scikit-learn>=1.7.0",
+    "scipy>=1.16.0",
+    "seaborn>=0.13.2",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
 ]
-
-[project.scripts]
-rekrutacja-ai-med-2026-2027 = "rekrutacja_ai_med_2026_2027:main"
 
 [build-system]
 requires = ["uv_build>=0.12.7,<0.13.0"]
