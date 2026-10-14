@@ -8,7 +8,6 @@ Umiejętność planowania i skutecznej realizacji jest dużym atutem członka ko
 Zadanie 1 jest obowiązkowe. Należy również wykonać dokładnie jeden wariant Zadania 2: 2A albo 2B. Zadanie 3 jest opcjonalne.
 
 ## Opis zadań
-Są trzy zadania — w Zadaniu 2 wybierz wariant 2A albo 2B. Ich opisy znajdziesz w notatnikach.
 1) [Zadanie 1](Zadanie-1/Rozwi%C4%85zanie-1.ipynb) — proste uczenie statystyczne
 2) [Zadanie 2A](Zadanie-2A/Rozwi%C4%85zanie-2A.ipynb) — uczenie maszynowe (dane obrazowe)
 3) [Zadanie 2B](Zadanie-2B/Rozwi%C4%85zanie-2B.ipynb) — uczenie maszynowe (sygnały)
