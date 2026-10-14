@@ -12,7 +12,7 @@ Są trzy zadania — w Zadaniu 2 wybierz wariant 2A albo 2B. Ich opisy znajdzies
 1) [Zadanie 1](Zadanie-1/Rozwi%C4%85zanie-1.ipynb) — proste uczenie statystyczne
 2) [Zadanie 2A](Zadanie-2A/Rozwi%C4%85zanie-2A.ipynb) — uczenie maszynowe (dane obrazowe)
 3) [Zadanie 2B](Zadanie-2B/Rozwi%C4%85zanie-2B.ipynb) — uczenie maszynowe (sygnały)
-4) [Zadanie 3](Zadanie-3/Rozwi%C4%85zanie-3.ipynb) — zadanie Extra (challenge)
+4) [Zadanie 3](Zadanie-3/Rozwi%C4%85zanie-3.ipynb) — badanie wiarygodności ewaluacji modelu na zbiorze DeepWeeds
 
 ## Rozwiązanie
 
