@@ -42,6 +42,8 @@ Przejdź do instrukcji poszczególnych zadań. Nie bój się wykorzystywać wied
 Nauka mile widziana — liczy się zrozumienie, a nie wynik. </br>
 Powodzenia!
 
+### Publikowanie wyników (2 min)
+
 Zapisz wyniki w repozytorium lokalnym, aby śledzić zmiany.
 
 Dodaj nowe pliki:
@@ -56,7 +58,7 @@ Wyślij zmiany do swojego zdalnego repozytorium:
 ```shell
 git push
 ```
-Na sam koniec link do Twojego repozytorium należy umieścić w formularzu rekrutacyjnym.
+Link do Twojego repozytorium należy umieścić w formularzu rekrutacyjnym jeżeli jeszcze tego nie wykonałeś.
 
 ## Metody wykonania i narzędzia
 Nie ograniczamy metod wykonania zadania! 😎
@@ -66,7 +68,7 @@ Jeżeli istnieją lepsze narzędzia, ale napotkasz przeszkody w ich użyciu, nie
 
 ## Co będzie sprawdzane?
 - Całość repozytorium będzie przeskanowana automatycznie pod względem spełnienia poszczególnych etapów i metod rozwiązania.
-- Następnie zadanie zostanie sprawdzone ręcznie oraz zostaną przygotowane pytania do wyników i metod rozwiązania.
+- Następnie zadanie zostanie sprawdzone ręcznie.
 - Same wyniki nie będą brane pod uwagę - liczy się jakość i zrozumienie rozwiązania.
 
 ## Podsumowanie
