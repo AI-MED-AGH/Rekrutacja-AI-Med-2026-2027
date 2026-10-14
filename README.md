@@ -3,12 +3,11 @@
 Cześć!
 
 Witamy Cię w naszym repozytorium. Tutaj znajdziesz zadania, które w ramach tej rekrutacji należy rozwiązać.
-Na przygotowanie i rozwiązanie zadań przewidziany jest tydzień. Dlaczego?
+Na przygotowanie przeznacz więcej niż jeden dzień. Dlaczego?
 Umiejętność planowania i skutecznej realizacji jest dużym atutem członka koła i pracownika.
 Zadanie 1 jest obowiązkowe. Należy również wykonać dokładnie jeden wariant Zadania 2: 2A albo 2B. Zadanie 3 jest opcjonalne.
 
 ## Opis zadań
-Są trzy zadania — w Zadaniu 2 wybierz wariant 2A albo 2B. Ich opisy znajdziesz w notatnikach.
 1) [Zadanie 1](Zadanie-1/Rozwi%C4%85zanie-1.ipynb) — proste uczenie statystyczne
 2) [Zadanie 2A](Zadanie-2A/Rozwi%C4%85zanie-2A.ipynb) — uczenie maszynowe (dane obrazowe)
 3) [Zadanie 2B](Zadanie-2B/Rozwi%C4%85zanie-2B.ipynb) — uczenie maszynowe (sygnały)
@@ -43,6 +42,8 @@ Przejdź do instrukcji poszczególnych zadań. Nie bój się wykorzystywać wied
 Nauka mile widziana — liczy się zrozumienie, a nie wynik. </br>
 Powodzenia!
 
+### Publikowanie wyników (2 min)
+
 Zapisz wyniki w repozytorium lokalnym, aby śledzić zmiany.
 
 Dodaj nowe pliki:
@@ -57,7 +58,7 @@ Wyślij zmiany do swojego zdalnego repozytorium:
 ```shell
 git push
 ```
-Na sam koniec link do Twojego repozytorium należy umieścić w formularzu rekrutacyjnym.
+Link do Twojego repozytorium należy umieścić w formularzu rekrutacyjnym jeżeli jeszcze tego nie wykonałeś.
 
 ## Metody wykonania i narzędzia
 Nie ograniczamy metod wykonania zadania! 😎
@@ -67,7 +68,7 @@ Jeżeli istnieją lepsze narzędzia, ale napotkasz przeszkody w ich użyciu, nie
 
 ## Co będzie sprawdzane?
 - Całość repozytorium będzie przeskanowana automatycznie pod względem spełnienia poszczególnych etapów i metod rozwiązania.
-- Następnie zadanie zostanie sprawdzone ręcznie oraz zostaną przygotowane pytania do wyników i metod rozwiązania.
+- Następnie zadanie zostanie sprawdzone ręcznie.
 - Same wyniki nie będą brane pod uwagę - liczy się jakość i zrozumienie rozwiązania.
 
 ## Podsumowanie
