@@ -3,7 +3,7 @@
 Cześć!
 
 Witamy Cię w naszym repozytorium. Tutaj znajdziesz zadania, które w ramach tej rekrutacji należy rozwiązać.
-Na przygotowanie i rozwiązanie zadań przewidziany jest tydzień. Dlaczego?
+Na przygotowanie przeznacz więcej niż jeden dzień. Dlaczego?
 Umiejętność planowania i skutecznej realizacji jest dużym atutem członka koła i pracownika.
 Zadanie 1 jest obowiązkowe. Należy również wykonać dokładnie jeden wariant Zadania 2: 2A albo 2B. Zadanie 3 jest opcjonalne.
 
